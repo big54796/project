@@ -1,0 +1,21 @@
+body {
+    background-color: bisque;
+}
+
+.admin {
+    background-color: rgb(148, 129, 105);
+}
+
+hr {
+    width: 100%;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+.post {
+    display: flex;
+    height: 200px;
+}
